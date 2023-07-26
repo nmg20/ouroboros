@@ -13,6 +13,7 @@
 ***
 
 # Cosas que mirar:
+## - Registrar la aplicación para poder acceder a la API.
 ## - Information retriever de Spotify -> [SpotiPy](https://spotipy.readthedocs.io/en/2.22.1/)
 ## - Forma de guardar información de forma más eficiente
    -
